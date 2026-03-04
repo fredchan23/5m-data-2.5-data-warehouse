@@ -6,3 +6,10 @@ output/*.db*
 __pycache__/
 .env
 .vscode/
+.yml
+.yaml
+.gitkeep
+.log
+target/
+dbt_packages/
+logs/
