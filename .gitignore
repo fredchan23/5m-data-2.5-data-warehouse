@@ -5,10 +5,10 @@ output/*.db*
 *.pyc
 __pycache__/
 .env
-.vscode/
-.yml
-.yaml
-.gitkeep
+*.vscode/
+*.yml
+*.yaml
+*.gitkeep
 .log
 target/
 dbt_packages/
